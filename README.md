@@ -1,31 +1,13 @@
-<!-- ===================================================
-     PROFIL GITHUB YANG DIUPDATE UNTUK RizalRendi
-     Tema: Anime & Cyberpunk dengan sentuhan profesional
-     =================================================== -->
 
-<!-- Header dengan efek paralaks -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/21/7b/60/217b60f6bbf63f3a8a5c8bb5d63c2e8d.gif" width="100%" alt="Anime Banner" />
-</div>
 
 <h1 align="center">
   ⚡ Yo! I'm Rizal ⚡
 </h1>
 
-<h3 align="center">🐉 Anime Enthusiast | 💻 Future Cybersecurity | 🌌 Night Coder | 🔒 Security Researcher</h3>
+<h3 align="center">💻 Future Cybersecurity | 🌌 Night Coder | 🔒 Security Research</h3>
 
 <p align="center">
   <i>"Just like anime filler, failures are temporary."</i>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizalRendi&label=Profile%20Views&color=7E3FEB&style=flat" alt="Profile Views" />
-  <a href="https://github.com/RizalRendi?tab=followers">
-    <img src="https://img.shields.io/github/followers/RizalRendi?color=7E3FEB&label=Followers&style=flat" alt="GitHub Followers">
-  </a>
-  <img src="https://img.shields.io/badge/Daily-Coder-7E3FEB?style=flat" alt="Daily Coder" />
-  <img src="https://img.shields.io/badge/Anime-Fan-FF69B4?style=flat" alt="Anime Fan" />
 </p>
 
 <!-- Divider -->
@@ -39,8 +21,8 @@
 - 🌱 **Learning:** Advanced Python, Network Security, and Cloud Technologies
 - 🎮 **Hobbies:** Coding, Playing Valorant, and Watching Anime
 - 📚 **Life Motto:** *"Just like anime filler, failures are temporary."*
-- 💬 **Ask me about:** Python, Linux, Web Security, or anime recommendations!
-- ⚡ **Fun fact:** I code better at night with lo-fi music in the background
+- 💬 **Ask me about:** Python, Linux, Web Security
+- ⚡ **Fun fact:** I code better at night when i listened to Lana Del Rey
 
 </details>
 
@@ -52,7 +34,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,html,css&perline=9" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,php,html,css&perline=9" alt="Programming Languages" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
@@ -62,12 +44,12 @@
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,aws,cloudflare&perline=9" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,cloudflare&perline=9" alt="Databases & Cloud" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,ps,ai,figma&perline=9" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,figma&perline=9" alt="Tools & Platforms" />
 </p>
 
 ### 🔒 Cybersecurity Tools
@@ -118,19 +100,6 @@
 
 
 <details>
-<summary><h2>🌌 Favorite Quotes</h2></summary>
-
-> *"In the night, coding feels like writing spells."*  
-> *"People with evil intent can do evil things without lying. And not all liars are evil."*  
-> *"Security is not a product, but a process." - Bruce Schneier*  
-> *"The quieter you become, the more you are able to hear." - Kali Linux motto*
-
-</details>
-
----
-
-
-<details>
 <summary><h2>❤️</h2></summary>
 
 <p align="center">
@@ -150,13 +119,13 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/rizal-nurrendi-a28261378/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/yourprofile/">
+  <a href="https://www.instagram.com/zalrizzall/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
