@@ -4,7 +4,7 @@
   ⚡ Yo! I'm Rizal ⚡
 </h1>
 
-<h3 align="center">💻 Future Cybersecurity | 🌌 Night Coder | 🔒 Security Research</h3>
+<h3 align="center">💻 Future Cybersecurity | 🌌 Night Coder | 🤖 Machine Learning </h3>
 
 <p align="center">
   <i>"Just like anime filler, failures are temporary."</i>
@@ -17,12 +17,11 @@
 <details open>
 <summary><h2>😼 About Me</h2></summary>
 
-- 🎯 **Current Focus:** Cybersecurity & Web Development
-- 🌱 **Learning:** Advanced Python, Network Security, and Cloud Technologies
-- 🎮 **Hobbies:** Coding, Playing Valorant, and Watching Anime
-- 📚 **Life Motto:** *"Just like anime filler, failures are temporary."*
-- 💬 **Ask me about:** Python, Linux, Web Security
-- ⚡ **Fun fact:** I code better at night when i listened to Lana Del Rey
+- 🎯 **Current Focus:** Cybersecurity & Machine Learning
+- 🌱 **Learning:** Advanced Python, Network Security, and ML Engineering
+- 🎮 **Hobbies:** Coding, Gym, Sleep, Anime
+- 💬 **Ask me about:** Python, Linux, Web Security, AI
+- ⚡ **Fun fact:** I code better at night (with Reality Club on loop)
 
 </details>
 
@@ -32,24 +31,17 @@
 <details>
 <summary><h2>🚀 Tech Stack</h2></summary>
 
-### 💻 Programming Languages
+### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,php,html,css&perline=9" alt="Programming Languages" />
-</p>
-
-### 🛠️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,react,bootstrap,tailwind&perline=9" alt="Frameworks & Libraries" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,aws,cloudflare&perline=9" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=9" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,figma&perline=9" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&perline=9" alt="Tools & Platforms" />
 </p>
 
 ### 🔒 Cybersecurity Tools
