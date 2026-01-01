@@ -1,13 +1,13 @@
 
 
 <h1 align="center">
-  ⚡ Yo! I'm Rizal ⚡
+   Hi, I'm Rizal
 </h1>
 
 <h3 align="center">💻 Future Cybersecurity | 🌌 Night Coder | 🤖 Machine Learning </h3>
 
 <p align="center">
-  <i>"Just like anime filler, failures are temporary."</i>
+  <i>"One fails forward toward success."</i>
 </p>
 
 <!-- Divider -->
@@ -18,10 +18,9 @@
 <summary><h2>😼 About Me</h2></summary>
 
 - 🎯 **Current Focus:** Cybersecurity & Machine Learning
-- 🌱 **Learning:** Advanced Python, Network Security, and ML Engineering
+- 🌱 **Learning:** Advanced Python, Network Security, N8N, and ML Engineering
 - 🎮 **Hobbies:** Coding, Gym, Sleep, Anime
 - 💬 **Ask me about:** Python, Linux, Web Security, AI
-- ⚡ **Fun fact:** I code better at night (with Reality Club on loop)
 
 </details>
 
@@ -79,7 +78,7 @@
 ---
 
 
-<details>
+<!-- <details>
 <summary><h2>📈 Coding Activity</h2></summary>
 
 <p align="center">
@@ -88,7 +87,7 @@
 
 </details>
 
----
+--- -->
 
 
 <details>
