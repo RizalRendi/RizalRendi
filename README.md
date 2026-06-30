@@ -7,7 +7,7 @@
 <h3 align="center">💻 Future Cybersecurity | 🌌 Night Coder | 🤖 Machine Learning </h3>
 
 <p align="center">
-  <i>"One fails forward toward success."</i>
+  <i>"Sometimes i dream of saving the world."</i>
 </p>
 
 <!-- Divider -->
